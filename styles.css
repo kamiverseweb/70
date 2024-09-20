@@ -1,0 +1,64 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 100vh;
+}
+.box{
+    background-color: white;
+    width: 800px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 30px;
+    padding-top: 30px;
+
+}
+img{
+    width: 700px;
+    height: 300px;
+    padding-top:500px ;
+}
+.purple{
+    background-color: rgba(238, 148, 238, 0.1);
+    width: 700px;
+    height: 150px;
+}
+h3{
+    color: rgba(106, 1, 106, 0.704);
+    padding-left: 25px;
+}
+h1{
+    font-size: 40px;
+}
+li{
+    color: hsl(24, 5%, 18%);
+}
+
+h2{
+    color:hsl(14, 45%, 36%);
+}
+table{
+    display: flex;
+    flex-direction: column;
+}
+.brown{
+    color: hsl(14, 45%, 36%);
+}
+h6{
+    color: hsl(14, 45%, 36%);
+    padding-left: 90px;
+}
+.nut{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.smth{
+    margin-left: 40px;
+}
